@@ -6,8 +6,18 @@ I'm currently building **TCGAsia**, a trading card marketplace for Southeast Asi
 
 ## Experience
 
-- **Senior Developer · [Artfora](https://www.artfora.com/)** — web3 platform bridging digital and physical art: NFT ownership verification, secure wallet-to-wallet payments, and on-chain redemption records for physical artworks paired with NFTs.
-- **Senior Fullstack Developer · Iversoft** — client work under my work account, [@violet-iversoft](https://github.com/violet-iversoft).
+**Senior Full-Stack Developer · Iversoft** — Nov 2024 – present · Canada, remote
+
+Client work across web and mobile under my work account, [@violet-iversoft](https://github.com/violet-iversoft). Promoted to senior in March 2026.
+
+**Senior Full Stack Engineer · [Artfora](https://www.artfora.com/)** — Nov 2022 – Nov 2023 · Remote
+
+Early engineering team member on a web3 platform that bridges digital and physical art — NFT ownership verification, wallet-to-wallet payments, and on-chain redemption records.
+
+- Helped design the architectural framework and built an accessibility-focused design system with Tailwind CSS and Headless UI.
+- Cut NFT image file sizes by ~80% and built a scalable processing pipeline with Amazon SQS/SNS, plus a decentralized IPFS image retrieval system with retry and reprocessing failsafes.
+- Deployed a serverless Node.js back end to AWS (Lambda, API Gateway) with GitLab CI/CD, and integrated Discord/Twitter blockchain monitoring for redemption notifications.
+- Created an NFT creation tool for Tezos with built-in support for physical redemptions through an art printer.
 
 ## Featured projects
 
@@ -17,4 +27,4 @@ I'm currently building **TCGAsia**, a trading card marketplace for Southeast Asi
 
 ## Tools I reach for
 
-`TypeScript` · `React` · `Next.js` · `NestJS` · `Node.js` · `PostgreSQL` · `Redis` · `Drizzle` · `React Native / Expo` · `Tailwind CSS` · `Docker`
+`TypeScript` · `React` · `Next.js` · `NestJS` · `Node.js` · `PostgreSQL` · `Redis` · `Drizzle` · `React Native / Expo` · `Tailwind CSS` · `Docker` · `AWS`
