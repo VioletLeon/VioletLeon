@@ -4,6 +4,11 @@ Full-stack engineer working primarily in **TypeScript** — React and Next.js on
 
 I'm currently building **TCGAsia**, a trading card marketplace for Southeast Asia: a Next.js storefront, NestJS API, BullMQ background workers, Drizzle ORM on Postgres, Redis, and S3 — with double-entry ledger accounting on every money path.
 
+## Experience
+
+- **Senior Developer · [Artfora](https://www.artfora.com/)** — web3 platform bridging digital and physical art: NFT ownership verification, secure wallet-to-wallet payments, and on-chain redemption records for physical artworks paired with NFTs.
+- **Senior Fullstack Developer · Iversoft** — client work under my work account, [@violet-iversoft](https://github.com/violet-iversoft).
+
 ## Featured projects
 
 - [**rpg-stepper**](https://github.com/VioletLeon/rpg-stepper) — RPG-style step tracker for iOS and Android. Expo, TypeScript, Firebase, HealthKit/Google Fit.
